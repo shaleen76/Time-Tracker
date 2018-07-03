@@ -9,7 +9,7 @@ class TimerActionButton extends Component {
                 onClick = {this.props.onStopClick}>
                     Stop
                  </div>
-            );
+            ); 
          } 
          else {
               return (
